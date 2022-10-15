@@ -18,7 +18,7 @@ Put the Neccesory Tokens Here when Deploy<br>
 
 ## Deployment
 
-[![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/riz4d/Font-Bot)
+[![Deploy On Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy?template=https://github.com/Yozmelar2/Font-Bot)
 
 ## Issues 
 
